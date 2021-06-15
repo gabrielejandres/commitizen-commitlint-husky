@@ -4,8 +4,17 @@ module.exports = {
           2,
           'always',
           [
-              'feat',
-              'teste'
+              'init',
+              'config',
+              'docs',
+              'feature',
+              'add',
+              'remove',
+              'integration',
+              'merge',
+              'bugfix',
+              'refactor',
+              'test'
           ],
       ],
   }

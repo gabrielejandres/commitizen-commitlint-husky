@@ -39,13 +39,49 @@
       "defaultBody": "",
       "defaultIssues": "",
       "types": {
-        "feat": {
-          "description": "Nova funcionalidade adicionada",
-          "title": "Nova feature"
+        "init": {
+          "description": "Commit inicial",
+          "title": "Commit inicial"
         },
-        "teste": {
-          "description": "Teste",
-          "title": "Teste"
+        "config": {
+          "description": "Atualização das configurações do projeto",
+          "title": "Atualização das configurações do projeto"
+        },
+        "docs": {
+          "description": "Atualização/adição da documentação do projeto",
+          "title": "Atualização/adição da documentação do projeto"
+        },
+        "feature": {
+          "description": "Adição de nova funcionalidade",
+          "title": "Adição de nova funcionalidade"
+        },
+        "add": {
+          "description": "Adição de dependência ou arquivo",
+          "title": "Adição de dependência ou arquivo"
+        },
+        "remove": {
+          "description": "Remoção de dependência, funcionalidade ou arquivo",
+          "title": "Remoção de dependência, funcionalidade ou arquivo"
+        },
+        "integration": {
+          "description": "Integração de funcionalidades back e front",
+          "title": "Integração de funcionalidades back e front"
+        },
+        "merge": {
+          "description": "Merge de branches",
+          "title": "Merge de branches"
+        },
+        "bugfix": {
+          "description": "Correção de bugs",
+          "title": "Correção de bugs"
+        },
+        "refactor": {
+          "description": "Mudanças internas que apenas aprimoram a qualidade do código",
+          "title": "Mudanças internas que apenas aprimoram a qualidade do código"
+        },
+        "test": {
+          "description": "Atualização/adição de testes",
+          "title": "Atualização/adição de testes"
         }
       }
     }
